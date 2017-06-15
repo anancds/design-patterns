@@ -14,6 +14,7 @@
         <module>decorator</module>
         <module>callback</module>
       <module>event-asynchronous</module>
+      <module>double-checked-locking</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
