@@ -16,6 +16,8 @@
       <module>event-asynchronous</module>
       <module>double-checked-locking</module>
       <module>execute-around</module>
+        <module>null-object</module>
+      <module>value-object</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
