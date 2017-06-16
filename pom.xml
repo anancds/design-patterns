@@ -18,6 +18,7 @@
       <module>execute-around</module>
         <module>null-object</module>
       <module>value-object</module>
+      <module>mutex</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
