@@ -21,6 +21,7 @@
       <module>mutex</module>
         <module>Module</module>
       <module>lazy-loading</module>
+      <module>adapter</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
