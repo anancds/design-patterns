@@ -24,6 +24,7 @@
       <module>adapter</module>
         <module>retry</module>
       <module>api-gateway</module>
+      <module>builder</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
